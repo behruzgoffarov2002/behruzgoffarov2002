@@ -1,7 +1,7 @@
 
 ---
 <!-- Profil Banner -->
-![Banner](https://i.ibb.co/4gSZXv1/github-banner.png) <!-- O'zing xohlagan banner URL sini qo'y -->
+![Banner](https://getwallpapers.com/wallpaper/full/1/7/d/15230.jpg) <!-- O'zing xohlagan banner URL sini qo'y -->
 
 <!-- Salomlashish va Typing Animation -->
 <h1 align="center">Salom, men Behruz 👋</h1>
