@@ -1,7 +1,7 @@
 # Salom, men Behruz Goffarov 👋
 
 💻 **Full Stack Developer | Cybersecurity Enthusiast**  
-🚀 Innovatsion loyihalar yaratish va yangi texnologiyalarni o‘rganishga qiziqaman  
+🚀 Innovatsion loyihalar yaratish va yangi texnologiyalarni o‘rganishga qiziqaman. Bugungi kunda o'zimningh bir newchta StartUp loyihalar chiqardim. O'zimni har qanday IT soxada mukammalikka intilishga harakat qilaman.
 
 ---
 
